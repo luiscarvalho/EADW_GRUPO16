@@ -149,7 +149,7 @@ while(run):
             print "NUMBER OF NEUTRAL SENTIMENT ANALYSIS: " + str(persSentDict[persona][3]) 
     elif "7" in var:
         print "\n"
-        print "Tank you for your participation"
+        print "Thank you for your participation"
         run = False
     else:
         print "Insert a valid options"
